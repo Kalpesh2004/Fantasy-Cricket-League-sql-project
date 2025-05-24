@@ -42,8 +42,8 @@ The database includes the following tables:
 
 ---
 
-## Outputs!!!
- 1) Top Performing Player
+## Sample Queries and Outputs!!!
+ 1) Top 5 players by total points
  
     ----------------------------------------------------------------------------------------
     
@@ -51,19 +51,19 @@ The database includes the following tables:
 
     
     ----------------------------------------------------------------------------------------
- 3) Team Rankings
+ 2) Team-wise total points based on player performance
     ----------------------------------------------------------------------------------------
     
     ![2 Team Rankings](https://github.com/user-attachments/assets/f262741e-3673-4277-b628-0db06c4eee89)
     
     ----------------------------------------------------------------------------------------
-5) Match- wise Player performance
+3)  Match-wise player statistics
    ----------------------------------------------------------------------------------------
    
    ![3 Match- wise Player performance](https://github.com/user-attachments/assets/f1c476aa-890d-403b-aa45-6e16a89a26b7)
    
    ----------------------------------------------------------------------------------------
-7) Window Function
+4) Player ranking using `RANK()` window function
    ----------------------------------------------------------------------------------------
    
    ![4 Window Function](https://github.com/user-attachments/assets/35aadbec-7264-475f-9371-8fb4aec53a16)
@@ -79,17 +79,6 @@ The database includes the following tables:
 - Track total points for players and teams
 - Rank players based on cumulative performance
 - Join multiple tables to fetch match-wise player stats
-
----
-
-## 🔍 Sample Queries
-
-Some queries included in the script:
-
-1. Top 5 players by total points
-2. Team-wise total points based on player performance
-3. Match-wise player statistics
-4. Player ranking using `RANK()` window function
 
 ---
 
