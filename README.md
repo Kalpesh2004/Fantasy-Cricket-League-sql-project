@@ -47,7 +47,8 @@ The database includes the following tables:
  
     ----------------------------------------------------------------------------------------
     
-    ![1 Top Performing Players](https://github.com/user-attachments/assets/972bfd97-504f-4378-b375-a0c7dfc90bf6)
+    ![1 Top Performing Player](https://github.com/user-attachments/assets/34aaa25b-ef7f-4974-8ba2-7577d27235ef)
+
     
     ----------------------------------------------------------------------------------------
  3) Team Rankings
