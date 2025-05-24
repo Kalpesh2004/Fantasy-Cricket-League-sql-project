@@ -1,4 +1,5 @@
-# 🏏 Fantasy Sports League Database
+# 🏏 Fantasy Cricket League Database
+
 
 This project is a **SQL-based database system** designed to manage a fantasy sports league. It supports the management of teams, players, matches, and player performance with scoring. It is ideal for learning **complex data modeling**, **SQL queries**, and **ranking functions**, and for demonstrating how to build a backend structure for fantasy gaming platforms like Dream11 or MPL.
 
